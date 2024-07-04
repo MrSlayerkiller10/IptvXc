@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SuperSport Football.za" tvg-logo="https://i.imgur.com/HNUwofZ.png" group-title="Sports",SuperSport Football
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/38575
-#EXTINF:-1 tvg-id="SuperSport Cricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="Sports",Astro SuperSport Cricket
+#EXTINF:-1 tvg-id="SuperSport Cricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="Sports",AstroSuperSport Cricket
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157565
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SABCNEWS.jpg" group-title="News",SABC News (Sabc 2)
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/38556
