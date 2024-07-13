@@ -18,7 +18,7 @@ https://anym3u8player.com/youtube.php/id/66796982000e8.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="SonyHD.in" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/Pic/main/Sony_TV_new.png" group-title="Entertainment (idk)",SONY TV HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="StarSport.in" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/Pic/main/800px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV
