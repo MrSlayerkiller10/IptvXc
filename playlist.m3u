@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Sports", COPA AMERICA 2024
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hg6CS97/download-1.png" group-title="Sports", Super Sport LaLiga
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.ibb.co/hg6CS97/download-1.png" group-title="Sports", Super Sport LaLiga
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
-#EXTINF:-1 tvg-id= "" tvg-logo="https://i.ibb.co/JxrWc1w/download-5.jpg" group-title="Sports", Sky Sports Premier League
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/JxrWc1w/download-5.jpg" group-title="Sports", Sky Sports Premier League
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-logo="" group-title="Sports",Super Sports Cricket
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
