@@ -5,7 +5,7 @@ https://hw1.jemtv.com/app/tv85/chunks.m3u8
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/JxrWc1w/download-5.jpg" group-title="Sports",Sky Sports Premier League
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
-#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-logo="" group-title="Sports",Super Sports Cricket
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/IptvXc/main/0c5Ox0o.png" group-title="Sports",Super Sports Cricket
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.imgur.com/HNUwofZ.png" group-title="Sports",Super Sports Football
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
