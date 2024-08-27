@@ -10,13 +10,13 @@ https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.imgur.com/HNUwofZ.png" group-title="Sports",Super Sports Football
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/IptvXc/main/skychb1302.png" group-title="Sports",Sky Sports Cricket
-https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+http://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png" group-title="Sports", Willow Cricket
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="News",Republic Bharat 2
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724798198/ei/lgDOZqgpsrXp2w-4ravgBQ/ip/92.205.15.128/id/ZwD3-hUQ3rk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9ocUmc3Cm3crhnbJQ3LZJrNF-N7-li0OgC4LWVGVugUHHSOz4jzk6wCrvZM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDE8-jUDApENFQwT2SIs4IloxDp_x70PR4AsusB71DZYCIQDONq3JnaYdz11vCCW5_QDKOu9z2rmObC9loc2Pw2s7eg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="SuperSport Cricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="Sports",AstroSuperSport Cricket
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157565
+http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SABCNEWS.jpg" group-title="News",SABC News (Sabc 2)
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/38556
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
