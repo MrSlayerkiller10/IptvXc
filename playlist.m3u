@@ -28,7 +28,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungi
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="News",Republic Bharat
 https://samsung-republicbharat.amagi.tv/playlist/samsungin-republicbharat-samsungindia/playlist.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://i.imgur.com/K9KX8un.png" group-title="News",Republic TV
-https://anym3u8player.com/youtube.php/id/66796982000e8.m3u8
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/7a06a3ab-58b0-4685-b406-aa5fda62af7a/0.m3u8?ads.partner=republicweb&sessionId=d60fef91-5aa3-4251-bd91-4ca0b291f70c
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="SonyHD.in" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/Pic/main/Sony_TV_new.png" group-title="Entertainment (idk)",SONY TV HD
