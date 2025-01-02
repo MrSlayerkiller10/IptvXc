@@ -17,8 +17,8 @@ https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726100892/ei/POHhZtD1MtCN6dsP2anR2QI/ip/92.205.15.128/id/ZwD3-hUQ3rk.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257029/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9maLDuo5k3_GV51NCo3CqE9ndf0HQ6sMR9eNPV9crfGnby-TZRtQRLyIo-A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOtj390pEBMvbzT722VMCJOPoK9ttXYuPOVMotWo43cECIHET3uVq6ym9FPxBt3eWHDGKZmV_TwmU8uDGqyX7aCLi/file/index.m3u8
 #EXTINF:-1 tvg-id="SuperSport Cricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="Sports",AstroSuperSport Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
-#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SABCNEWS.jpg" group-title="News",SABC News (Sabc 2)
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/38556
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SABCNEWS.jpg" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="News",India TV
