@@ -14,7 +14,7 @@ http://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u
 #EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png" group-title="Sports", Willow Cricket
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="News",Republic Bharat 2
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/d31118cf-dbb1-426d-bf7c-069a86ac3682/3.m3u8?ads.partner=republicweb&sessionId=ba3145f8-7c3f-4ee5-80e1-5863bb688641
+http://tv.cloudcdn.me:80/live.ts?channelId=126084&uid=15304&deviceMac=00:1A:79:D9:7F:11
 #EXTINF:-1 tvg-id="SuperSport Cricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="Sports",AstroSuperSport Cricket
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SABCNEWS.jpg" group-title="News",SABC News
